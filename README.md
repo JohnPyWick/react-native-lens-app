@@ -1,4 +1,4 @@
-## Example React Native Lens application
+## React Native Lens application
 
 Built with [Expo](https://expo.dev/) and [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit)
 
