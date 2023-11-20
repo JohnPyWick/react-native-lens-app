@@ -6,13 +6,8 @@ Built with [Expo](https://expo.dev/) and [React Native Lens UI Kit](https://gith
 
 To run this app, follow these steps:
 
-1. Clone the repo
 
-```sh
-git clone git@github.com:dabit3/dabit3-react-native-lens-example.git
-```
-
-2. Install the dependencies
+1. Install the dependencies
 
 ```sh
 npm install
@@ -20,7 +15,7 @@ npm install
 # or yarn, pnpm, etc..
 ```
 
-3. Run the app
+2. Run the app
 
 ```sh
 npm start
